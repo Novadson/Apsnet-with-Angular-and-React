@@ -1,0 +1,12 @@
+C:\Users\novad\OneDrive\Documentos\NetWithAngularAndReact\TrainingAngular.Domain\bin\Debug\net5.0\TrainingAngular.Domain.deps.json
+C:\Users\novad\OneDrive\Documentos\NetWithAngularAndReact\TrainingAngular.Domain\bin\Debug\net5.0\TrainingAngular.Domain.dll
+C:\Users\novad\OneDrive\Documentos\NetWithAngularAndReact\TrainingAngular.Domain\bin\Debug\net5.0\TrainingAngular.Domain.pdb
+C:\Users\novad\OneDrive\Documentos\NetWithAngularAndReact\TrainingAngular.Domain\obj\Debug\net5.0\TrainingAngular.Domain.csproj.AssemblyReference.cache
+C:\Users\novad\OneDrive\Documentos\NetWithAngularAndReact\TrainingAngular.Domain\obj\Debug\net5.0\TrainingAngular.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\novad\OneDrive\Documentos\NetWithAngularAndReact\TrainingAngular.Domain\obj\Debug\net5.0\TrainingAngular.Domain.AssemblyInfoInputs.cache
+C:\Users\novad\OneDrive\Documentos\NetWithAngularAndReact\TrainingAngular.Domain\obj\Debug\net5.0\TrainingAngular.Domain.AssemblyInfo.cs
+C:\Users\novad\OneDrive\Documentos\NetWithAngularAndReact\TrainingAngular.Domain\obj\Debug\net5.0\TrainingAngular.Domain.csproj.CoreCompileInputs.cache
+C:\Users\novad\OneDrive\Documentos\NetWithAngularAndReact\TrainingAngular.Domain\obj\Debug\net5.0\TrainingAngular.Domain.dll
+C:\Users\novad\OneDrive\Documentos\NetWithAngularAndReact\TrainingAngular.Domain\obj\Debug\net5.0\refint\TrainingAngular.Domain.dll
+C:\Users\novad\OneDrive\Documentos\NetWithAngularAndReact\TrainingAngular.Domain\obj\Debug\net5.0\TrainingAngular.Domain.pdb
+C:\Users\novad\OneDrive\Documentos\NetWithAngularAndReact\TrainingAngular.Domain\obj\Debug\net5.0\ref\TrainingAngular.Domain.dll
